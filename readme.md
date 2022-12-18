@@ -34,13 +34,3 @@ First, checkout this project locally and then follow these steps:
 - Remove a container: `docker rm <container-id>`
 
 
-## Further Reading
-
-- Checkout [Tutum](http://tutum.co) for hosting private docker registries and managing your infrastructure.
-  - Check out the [Tutum CLI](https://github.com/tutumcloud/cli): `brew install tutum`
-- Check out this [Docker + Tutum hello world repo](https://github.com/tutumcloud/hello-world)
-
-
-## Credits and License
-
-Put together by [Dana Woodman](mailto:dana@danawoodman.com) and released under the MIT license. Have fun!
