@@ -34,3 +34,6 @@ First, checkout this project locally and then follow these steps:
 - Remove a container: `docker rm <container-id>`
 
 
+<hr>
+
+Main part of the project -   https://github.com/asiamegic/jenkins_terraform
